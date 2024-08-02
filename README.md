@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MythicArrow
+- 👋 Hi, I’m @MythicArrow a Vwo sophomore that loves to programming.
 - 👀 I’m interested in Ai and machine learning technologies.
 - 🌱 I’m currently learning c++ and trying to advance in python.
 - 📫 How to reach me proselim06@gmail.com
