@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MythicArrow 
 - 👀 I’m interested in deep learning and I am looking forward to contribute. So feel free to reach me!
-- 🌱 I’m currently learning c++ and trying to advance in Ai frameworks.
+- 🌱 I’m currently learning C++ and trying to advance in Ai frameworks.
 - 📫 How to reach me proselim06@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicArrow)](https://github.com/anuraghazra/github-readme-stats)
