@@ -25,7 +25,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MythicArrow&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MythicArrow&theme=aura_dark&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicArrow&count_private=true&layout=donut&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicArrow&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MythicArrow&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
