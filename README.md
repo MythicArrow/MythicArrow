@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @MythicArrow, An aspiring AI Engineer.<br>- 👀 I’m interested in deep learning and I am looking forward to contribute. So feel free to reach me!<br>- 🌱 I’m currently learning C++ and trying to advance in state-of-the-art AI frameworks/technologies.<br>- 📫 How to reach me proselim06@gmail.com
+- 👋 Hi, I’m @MythicArrow, An aspiring AI Engineer.<br>- 👀 I’m interested in deep learning and I am looking forward to contribute. So feel free to reach me!<br>- 🌱 I’m currently learning C++ and many other languages also trying to advance in state-of-the-art AI frameworks/technologies.<br>- 📫 How to reach me proselim06@gmail.com
 
 
 ## 🌐 Socials:
