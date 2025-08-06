@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @MythicArrow, an aspiring ML/AI Engineer.<br>- 👀 I’m interested in Deep Learning and I am looking forward to contributing. So feel free to reach me!<br>- 🌱 I’m currently advancing in SOTA AI frameworks, techniques, and technologies.<br>- 📫 How to reach me proselim06@gmail.com
+- 👋 Hi, I’m @MythicArrow, an aspiring AI/ML Engineer.<br>- 👀 I’m interested in Deep Learning and I am looking forward to contributing. So feel free to reach me!<br>- 🌱 I’m currently advancing in SOTA AI frameworks, techniques, and technologies.<br>- 📫 How to reach me proselim06@gmail.com
 
 
 ## 🌐 Socials:
